@@ -1,4 +1,4 @@
-# C--calculator
+# C# calculator
 Un petit exercice de calculateur avec C#.
 /*
              * @DevNas
